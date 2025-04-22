@@ -67,8 +67,8 @@ const Navbar: React.FC<NavbarProps> = ({ toggleSidebar }) => {
             RK
           </div>
           <div className="ml-2 hidden md:block">
-            <p className="text-sm font-medium text-gray-700">Rahul Kumar</p>
-            <p className="text-xs text-gray-500">Premium Plan</p>
+            <p className="text-sm font-medium text-gray-700">Trial App</p>
+            <p className="text-xs text-gray-500">Plan</p>
           </div>
         </div>
       </div>
